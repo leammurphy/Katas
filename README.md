@@ -2,7 +2,8 @@
 
 To Track Daily Coding Challenge
 
-## Day1 - https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript
+## [Day1](Challenges/Day1)
 
-[question](Challenges/Day1/day1.md)
+[link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript)
+[description](Challenges/Day1/day1.md)
 [myAnswer](Challenges/Day1/day1.js)
