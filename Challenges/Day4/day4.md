@@ -1,5 +1,3 @@
-double challenge bc I felt like it
-
 # Remove First and Last Character
 
 ## 8 kyu
