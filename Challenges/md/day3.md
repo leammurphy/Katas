@@ -1,5 +1,7 @@
 # Count of positives / sum of negatives
 
+2022-02-08
+
 ## 8 kyu
 
 **_Time: ~10min_**

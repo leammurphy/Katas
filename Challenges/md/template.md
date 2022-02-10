@@ -1,5 +1,7 @@
 # title
 
+date
+
 ## difficulty
 
 **_Time: ~ _**

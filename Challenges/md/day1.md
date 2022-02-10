@@ -1,5 +1,7 @@
 # Total amount of points
 
+2022-02-06
+
 ## 8 kyu
 
 **_Time: ~4min_**

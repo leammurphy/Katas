@@ -1,5 +1,7 @@
 # Exclamation marks series #1: Remove an exclamation mark from the end of string
 
+2022-02-07
+
 ## 8 kyu
 
 **_Time: ~10min_**

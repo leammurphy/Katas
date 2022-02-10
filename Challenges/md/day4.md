@@ -1,5 +1,7 @@
 # Remove First and Last Character
 
+2022-02-09
+
 ## 8 kyu
 
 **_Time: ~5_**
