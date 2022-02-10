@@ -19,3 +19,9 @@ To Track Daily Coding Challenge
 [link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript)
 [description](Challenges/Day3/day3.md)
 [myAnswer](Challenges/Day3/day3.js)
+
+## [Day4](Challenges/Day4)
+
+[link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript)
+[description](Challenges/Day4/day4.md)
+[myAnswer](Challenges/Day4/day4.js)

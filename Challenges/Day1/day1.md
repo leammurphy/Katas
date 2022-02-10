@@ -8,7 +8,7 @@ The result of each game looks like "x:y". Results of all games are recorded in t
 
 For example: ["3:1", "2:2", "0:1", ...]
 
-**Write a function that takes such collection and counts the points of our team in the championship. Rules for counting points for each match:**
+**Write a function that takes such collection and counts the points of the game. Rules for counting points for each game:**
 
 if x>y - 3 points
 if x<y - 0 point
