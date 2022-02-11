@@ -41,3 +41,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day5.md)
 
 [myAnswer](Challenges/abbreviate.js)
+
+## Day6
+
+[link](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
+
+[description](Challenges/md/day6.md)
+
+[myAnswer](Challenges/wellOfIdeas.js)
