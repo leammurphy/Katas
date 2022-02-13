@@ -49,3 +49,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day6.md)
 
 [myAnswer](Challenges/wellOfIdeas.js)
+
+## Day7
+
+[link](https://www.codewars.com/kata/581e476d5f59408553000a4b/train/javascript)
+
+[description](Challenges/md/day7.md)
+
+[myAnswer](Challenges/linkedListLength.js)

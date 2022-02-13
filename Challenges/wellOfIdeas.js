@@ -18,8 +18,8 @@ function well(x){
   if (howManyGoods < 1) return 'Fail!';
   if (howManyGoods < 3) return 'Publish!';
   return 'I smell a series!';
-}
 
+}
 function well(x){
   let howManyGoods = x.filter(x => x==="good").length;
   return howManyGoods < 1 ? 'Fail!' : 
