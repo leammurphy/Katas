@@ -57,3 +57,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day7.md)
 
 [myAnswer](Challenges/linkedListLength.js)
+
+## Day8
+
+[link](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)
+
+[description](Challenges/md/day8.md)
+
+[myAnswer](Challenges/findMidChar.js)
