@@ -65,3 +65,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day8.md)
 
 [myAnswer](Challenges/findMidChar.js)
+
+## Day9
+
+[link](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)
+
+[description](/home/leam/challenges/Katas/Challenges/md/day9.md)
+
+[myAnswer](Challenges/disemvowel.js)
