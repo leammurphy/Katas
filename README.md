@@ -73,3 +73,11 @@ To Track Daily Coding Challenge
 [description](/home/leam/challenges/Katas/Challenges/md/day9.md)
 
 [myAnswer](Challenges/disemvowel.js)
+
+## Day10
+
+[link](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
+
+[description](Challenges/md/day10.md)
+
+[myAnswer](Challenges/squareDigits.js)
