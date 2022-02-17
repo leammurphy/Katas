@@ -81,3 +81,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day10.md)
 
 [myAnswer](Challenges/squareDigits.js)
+
+## Day11
+
+[link](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)
+
+[description](Challenges/md/day11.md)
+
+[myAnswer](Challenges/filterList.js)
