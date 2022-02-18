@@ -89,3 +89,11 @@ To Track Daily Coding Challenge
 [description](Challenges/md/day11.md)
 
 [myAnswer](Challenges/filterList.js)
+
+## Day 12
+
+[link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)
+
+[description](Challenges/md/day12.md)
+
+[myAnswer](Challenges/shortestWord.js)
