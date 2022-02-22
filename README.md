@@ -90,10 +90,26 @@ To Track Daily Coding Challenge
 
 [myAnswer](Challenges/filterList.js)
 
-## Day 12
+## Day12
 
 [link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)
 
 [description](Challenges/md/day12.md)
 
 [myAnswer](Challenges/shortestWord.js)
+
+## Day13
+
+[link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
+
+[description](Challenges/md/day13.md)
+
+[myAnswer](Challenges/descendingOrder.js)
+
+## Day14
+
+[link](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
+
+[description](Challenges/md/day14.md)
+
+[myAnswer](Challenges/creditCardMask.js)
