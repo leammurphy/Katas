@@ -8,7 +8,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day1.md)
 
-[myAnswer](Challenges/Day1/totalPoints.js)
+[myAnswer](Codewars/Challenges/Day1/totalPoints.js)
 
 ## Day2
 
@@ -16,7 +16,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day2.md)
 
-[myAnswer](Challenges/removeExclamation.js)
+[myAnswer](Codewars/Challenges/removeExclamation.js)
 
 ## Day3
 
@@ -24,7 +24,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day3.md)
 
-[myAnswer](Challenges/countAndSum.js)
+[myAnswer](Codewars/Challenges/countAndSum.js)
 
 ## Day4
 
@@ -32,7 +32,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day4.md)
 
-[myAnswer](Challenges/substring.js)
+[myAnswer](Codewars/Challenges/substring.js)
 
 ## Day5
 
@@ -40,7 +40,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day5.md)
 
-[myAnswer](Challenges/abbreviate.js)
+[myAnswer](Codewars/Challenges/abbreviate.js)
 
 ## Day6
 
@@ -48,7 +48,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day6.md)
 
-[myAnswer](Challenges/wellOfIdeas.js)
+[myAnswer](Codewars/Challenges/wellOfIdeas.js)
 
 ## Day7
 
@@ -56,7 +56,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day7.md)
 
-[myAnswer](Challenges/linkedListLength.js)
+[myAnswer](Codewars/Challenges/linkedListLength.js)
 
 ## Day8
 
@@ -64,7 +64,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day8.md)
 
-[myAnswer](Challenges/findMidChar.js)
+[myAnswer](Codewars/Challenges/findMidChar.js)
 
 ## Day9
 
@@ -72,7 +72,7 @@ To Track Daily Coding Challenge
 
 [description](/home/leam/challenges/Katas/Challenges/md/day9.md)
 
-[myAnswer](Challenges/disemvowel.js)
+[myAnswer](Codewars/Challenges/disemvowel.js)
 
 ## Day10
 
@@ -80,7 +80,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day10.md)
 
-[myAnswer](Challenges/squareDigits.js)
+[myAnswer](Codewars/Challenges/squareDigits.js)
 
 ## Day11
 
@@ -88,7 +88,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day11.md)
 
-[myAnswer](Challenges/filterList.js)
+[myAnswer](Codewars/Challenges/filterList.js)
 
 ## Day12
 
@@ -96,7 +96,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day12.md)
 
-[myAnswer](Challenges/shortestWord.js)
+[myAnswer](Codewars/Challenges/shortestWord.js)
 
 ## Day13
 
@@ -104,7 +104,7 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day13.md)
 
-[myAnswer](Challenges/descendingOrder.js)
+[myAnswer](Codewars/Challenges/descendingOrder.js)
 
 ## Day14
 
@@ -112,4 +112,4 @@ To Track Daily Coding Challenge
 
 [description](Challenges/md/day14.md)
 
-[myAnswer](Challenges/creditCardMask.js)
+[myAnswer](Codewars/Challenges/creditCardMask.js)
