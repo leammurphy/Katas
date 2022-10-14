@@ -1,4 +1,4 @@
-# My Final Solution
+# Suggested Final Solution
 class Solution:
     
     def transformString(self, s: str) -> str:
@@ -33,6 +33,20 @@ class Solution:
             return True
         else:
             return False
+
+# My Solution
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        sm = []
+        tm = []
+        
+        for i in s:
+            sm.append(s.index[i])
+        for i in t:
+            tm.append(t.index[i])
+        if sm == tm:
+            return True   
+        return False
 
 # Elegant solution
 class Solution:

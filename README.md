@@ -127,6 +127,6 @@ To Track Daily Coding Challenge
 
 [link](https://leetcode.com/problems/isomorphic-strings/)
 
-[description](LeetCode\md\day2-1.md)
+[description](LeetCode/md/day2-1.md)
 
-[myAnswer](LeetCode\Challenges\IsomorphicStrs.py)
+[myAnswer](LeetCode/Challenges/IsomorphicStrs.py)
